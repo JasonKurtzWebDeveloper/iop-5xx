@@ -9,3 +9,7 @@ Prepareing project for development.
 - Added google analytics code.
 - Tested and pushed to production.
 
+Version 1.0.0.0
+- merge branch: update-favicon
+	- generated favorite icons package (https://realfavicongenerator.net)
+	- updated title to iop-5xx | Jason Kurtz
