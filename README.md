@@ -1,8 +1,9 @@
 # iop-5xx
-WEB-240-3241 Responsive Web Design
+WEB-240 Responsive_Web_Design inside out project iop-5xx
+Github Pages: https://school-web-240-jasonkurtz.github.io/iop-5xx/
 Production: https://iop-5xx.jasonkurtzwebdevelopment.com
 
-Github Pages: https://school-web-240-jasonkurtz.github.io/iop-5xx/
+
 
 Prepareing project for development.
 - Added html5-boilerplate_v6.1.0 files to applications.
